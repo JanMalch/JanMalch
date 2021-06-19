@@ -61,14 +61,20 @@ Outside the front-end world I like to work with Kotlin for both Android developm
       <i>Things you can do with TypeScript.</i>
     </td>
   </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+      <a href="https://github.com/JanMalch/angular-form-states-demo"><strong>Angular form and error states</strong></a> <br/>
+      <i>A demo for Angular's form behaviour.</i>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
-
 
 <br/>
 
-    
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=JanMalch" alt="JanMalch's GitHub stats">
-
 </p>
