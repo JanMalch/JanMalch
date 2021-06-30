@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I'm a Software Engineer speczialing in front-end development. I have professional experience with the Angular framework and particularly enjoy working with TypeScript.
+I'm a Software Engineer specializing in front-end development. I have professional experience with the Angular framework and particularly enjoy working with TypeScript.
 Related technologies like HTML5, SCSS and reactive programming are also part of my portfolio. Besides Angular I look into other frameworks like Svelte and Vue.js.
 
 Outside the front-end world I like to work with Kotlin for both Android development and backends.
