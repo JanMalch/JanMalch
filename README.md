@@ -63,6 +63,8 @@ Outside the front-end world I like to work with Kotlin for both Android developm
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/JanMalch/doomsday"><strong>the doomsday method</strong></a> <br/>
+      <i>Demonstrate and practice the doomsday method.</i>
     </td>
     <td>
       <a href="https://github.com/JanMalch/angular-form-states-demo"><strong>Angular form and error states</strong></a> <br/>
