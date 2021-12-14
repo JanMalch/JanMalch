@@ -67,10 +67,12 @@ Outside the front-end world I like to work with Kotlin for both Android developm
       <i>Demonstrate and practice the doomsday method.</i>
     </td>
     <td>
-      <a href="https://github.com/JanMalch/angular-form-states-demo"><strong>Angular form and error states</strong></a> <br/>
-      <i>A demo for Angular's form behaviour.</i>
+      <a href="https://github.com/JanMalch/permutations"><strong>permutations</strong></a> <br/>
+      <i>Generate all permutations without repetitions.</i>
     </td>
     <td>
+      <a href="https://github.com/JanMalch/angular-form-states-demo"><strong>Angular form and error states</strong></a> <br/>
+      <i>A demo for Angular's form behaviour.</i>
     </td>
   </tr>
 </table>
