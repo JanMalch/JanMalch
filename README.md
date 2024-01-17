@@ -1,141 +1,31 @@
-### Hi there :wave:
+<h1 align="center">Hello there :wave:</h1>
 
-I'm a Software Engineer specializing in front-end development. I have professional experience with the Angular framework and particularly enjoy working with TypeScript.
-Related technologies like HTML5, SCSS and reactive programming are also part of my portfolio. Besides Angular I look into other frameworks like Svelte and Vue.js.
-
-Outside the front-end world I like to work with Kotlin for both Android development and backends.
-
-<br/>
-
----
-
-<br/>
-<h3 align="center">Toolbox</h3>
-<br/>
-
-<p align="center">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular 2+" width="150" height="60"/><img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" alt="npm" width="150" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="150" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="150" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="150" height="50"/>
+<div align="center">
   
- </p>
-  <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanMalch&hide=html,css,java&langs_count=4&layout=compact" alt="Top Languages">
-</p>
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=&type=&language=kotlin&sort=) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=&type=&language=typescript&sort=) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+🧠 Currently learning vim motions.
+</div>
 
+## 📖 Libraries
 
-<br/>
+- **[comparing](https://github.com/JanMalch/comparing)** &middot; Easily create descriptive comparators
+- **[ts-code-contracts](https://github.com/JanMalch/ts-code-contracts)** &middot; Design by contract with TypeScript
+- **[Navi](https://github.com/JanMalch/navi)** &middot; Android library to reduce boilerplate code for official Compose navigation _(experimental)_
+- **[angular/components](https://github.com/angular/components)** &middot; Component infrastructure and Material Design components for Angular
+- **[ngxs-labs/entity-state](https://github.com/ngxs-labs/entity-state)** &middot; Entity adapter for NGXS _(inactive)_
 
----
+## ✨ Apps
 
-<br/>
-<h3 align="center">My work and contributions</h3>
-<br/>
+- **[flextangler](https://janmalch.github.io/flextangler/)** &middot; Create flextangles with your own images
+- **[ssl-at-home](https://hub.docker.com/r/janmalch/ssl-at-home)** &middot; Create and host your own self-signed certificates, intended for your home network
+- **[the doomsday method](https://janmalch.github.io/doomsday/)** &middot; Demonstrate and practice the doomsday method
+- **[permutations](https://janmalch.github.io/permutations/)** &middot; Generate all permutations without repetitions
 
-<p align="center">
-    <small>✨ App&nbsp;&nbsp;–&nbsp;&nbsp;📖 Library&nbsp;&nbsp;–&nbsp;&nbsp;💡 Miscellaneous</small>
-</p>
+## 💡 Miscellaneous
 
+- **[ts-experiments](https://github.com/JanMalch/ts-experiments)** &middot; A collection of fun and/or useful things you can do with TypeScript
+- **[collections-commons](https://github.com/JanMalch/collections-commons)** &middot; Extensions, data structures, and utilities built on top of them, for your every-day needs
+- **[angular-form-states-demo](https://github.com/JanMalch/angular-form-states-demo)** &middot; A demo for Angular's form behaviour
 
-<table align="center">
-  <tr>
-    <td>
-      <strong>comparing</strong><br/>
-      <span>
-        <a href="https://www.npmjs.com/package/comparing">📖 npm</a>
-        &middot;
-        <a href="https://github.com/JanMalch/comparing">GitHub</a>
-      </span>
-      <br/>
-      <i>Easily create descriptive comparators.</i>
-    </td>
-    <td>
-      <strong>ts-code-contracts</strong><br/>
-      <span>
-        <a href="https://www.npmjs.com/package/ts-code-contracts">📖 npm</a>
-        &middot;
-        <a href="https://github.com/JanMalch/ts-code-contracts">GitHub</a>
-      </span>
-      <br/>
-      <i>Design by contract with TypeScript.</i>
-    </td>
-    <td>
-      <strong>@angular/cdk</strong><br/>
-      <span>
-        <a href="https://github.com/angular/components/pulls?q=is%3Apr+author%3AJanMalch">📖 PRs</a>
-        &middot;
-        <a href="https://github.com/angular/components">GitHub</a>
-      </span>
-      <br/>
-      <i>Angular's official Component Dev Kit.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>@ngxs-labs/entity-state</strong><br/>
-      <span>
-        <a href="https://www.npmjs.com/package/@ngxs-labs/entity-state">📖 npm</a>
-        &middot;
-        <a href="https://github.com/ngxs-labs/entity-state">GitHub</a>
-      </span>
-      <br/>
-      <i>Easy CRUD actions for your NGXS state.</i>
-    </td>
-    <td>
-      <strong>flextangler</strong><br/>
-      <span>
-        <a href="https://janmalch.github.io/flextangler">✨ Website</a>
-        &middot;
-        <a href="https://github.com/JanMalch/flextangler">GitHub</a>
-      </span>
-      <br/>
-      <i>Create flextangles with your own images.</i>
-    </td>
-    <td>
-      <strong>ts-experiments</strong><br/>
-      <span>
-        <a href="https://github.com/JanMalch/ts-experiments">💡 GitHub</a>
-      </span>
-      <br/>
-      <i>Things you can do with TypeScript.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>the doomsday method</strong><br/>
-      <span>
-        <a href="https://janmalch.github.io/doomsday">✨ Website</a>
-        &middot;
-        <a href="https://github.com/JanMalch/doomsday">GitHub</a>
-      </span>
-      <br/>
-      <i>Demonstrate and practice the doomsday method.</i>
-    </td>
-    <td>
-      <strong>permutations</strong><br/>
-      <span>
-        <a href="https://janmalch.github.io/permutations">✨ Website</a>
-        &middot;
-        <a href="https://github.com/JanMalch/permutations">GitHub</a>
-      </span>
-      <br/>
-      <i>Generate all permutations without repetitions.</i>
-    </td>
-    <td>
-      <strong>Angular form and error states</strong><br/>
-      <span>
-        <a href="https://janmalch.github.io/angular-form-states-demo">💡 Website</a>
-        &middot;
-        <a href="https://github.com/JanMalch/angular-form-states-demo">GitHub</a>
-      </span>
-      <br/>
-      <i>A demo for Angular's form behaviour.</i>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanMalch" alt="JanMalch's GitHub stats">
-</p>
+... and some [others](https://github.com/JanMalch?tab=repositories&q=&type=public&language=&sort=).
