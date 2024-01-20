@@ -18,6 +18,7 @@
 ## ✨ Apps
 
 - **[flextangler](https://janmalch.github.io/flextangler/)** &middot; Create flextangles with your own images
+- **[BackUpper](https://github.com/JanMalch/BackUpper)** &middot; Simple and portable backup tool, that creates backups by simply copying
 - **[ssl-at-home](https://hub.docker.com/r/janmalch/ssl-at-home)** &middot; Create and host your own self-signed certificates, intended for your home network
 - **[the doomsday method](https://janmalch.github.io/doomsday/)** &middot; Demonstrate and practice the doomsday method
 - **[permutations](https://janmalch.github.io/permutations/)** &middot; Generate all permutations without repetitions
