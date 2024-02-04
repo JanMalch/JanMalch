@@ -11,12 +11,13 @@
 
 - **[comparing](https://github.com/JanMalch/comparing)** &middot; Easily create descriptive comparators
 - **[ts-code-contracts](https://github.com/JanMalch/ts-code-contracts)** &middot; Design by contract with TypeScript
-- **[Navi](https://github.com/JanMalch/navi)** &middot; Android library to reduce boilerplate code for official Compose navigation _(experimental)_
 - **[angular/components](https://github.com/angular/components)** &middot; Component infrastructure and Material Design components for Angular
+- **[Navi](https://github.com/JanMalch/navi)** &middot; Android library to reduce boilerplate code for official Compose navigation _(experimental)_
 - **[ngxs-labs/entity-state](https://github.com/ngxs-labs/entity-state)** &middot; Entity adapter for NGXS _(inactive)_
 
 ## ✨ Apps
 
+- **[Navi](https://janmalch.github.io/navi-web/)** &middot; In-browser code generator for Compose navigation boilerplate code.
 - **[flextangler](https://janmalch.github.io/flextangler/)** &middot; Create flextangles with your own images
 - **[BackUpper](https://github.com/JanMalch/BackUpper)** &middot; Simple and portable backup tool, that creates backups by simply copying
 - **[ssl-at-home](https://hub.docker.com/r/janmalch/ssl-at-home)** &middot; Create and host your own self-signed certificates, intended for your home network
