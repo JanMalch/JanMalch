@@ -14,8 +14,8 @@
 
 ## 📖 Libraries
 
-- **[shed](https://github.com/JanMalch/shed)** &middot; Putting Timber in an Android Room database
-- **[ktor-revfile](https://janmalch.github.io/ktor-revfile/)** &middot; Ktor server plugin for automatically revisioning static files
+- **[shed](https://github.com/JanMalch/shed#readme)** &middot; Putting Timber in an Android Room database
+- **[ktor-revfile](https://github.com/JanMalch/ktor-revfile#readme)** &middot; Ktor server plugin for automatically revisioning static files
 - **[comparing](https://github.com/JanMalch/comparing)** &middot; Easily create descriptive comparators with TypeScript
 - **[ts-code-contracts](https://github.com/JanMalch/ts-code-contracts)** &middot; Design by contract with TypeScript
 
