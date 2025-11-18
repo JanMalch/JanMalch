@@ -2,22 +2,27 @@
 
 <div align="center">
   
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=&type=&language=kotlin&sort=) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=&type=&language=typescript&sort=) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=&type=&language=kotlin&sort=) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=&type=&language=typescript&sort=) [![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JanMalch?tab=repositories&q=Android) [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/angular/components)
 
 🧠 Currently learning vim motions.
 </div>
 
+## 🔨 Tools
+
+- **[Argus](https://github.com/JanMalch/argus#readme)** &middot; A convenient proxy for developers
+- **[roar](https://github.com/JanMalch/roar#readme)** &middot; Single-purpose CLI for opinionated semantic releases
+
 ## 📖 Libraries
 
-- **[comparing](https://github.com/JanMalch/comparing)** &middot; Easily create descriptive comparators
+- **[shed](https://github.com/JanMalch/shed)** &middot; Putting Timber in an Android Room database
+- **[ktor-revfile](https://janmalch.github.io/ktor-revfile/)** &middot; Ktor server plugin for automatically revisioning static files
+- **[comparing](https://github.com/JanMalch/comparing)** &middot; Easily create descriptive comparators with TypeScript
 - **[ts-code-contracts](https://github.com/JanMalch/ts-code-contracts)** &middot; Design by contract with TypeScript
-- **[angular/components](https://github.com/angular/components)** &middot; Component infrastructure and Material Design components for Angular
-- **[Navi](https://github.com/JanMalch/navi)** &middot; Android library to reduce boilerplate code for official Compose navigation _(experimental)_
-- **[ngxs-labs/entity-state](https://github.com/ngxs-labs/entity-state)** &middot; Entity adapter for NGXS _(inactive)_
 
 ## ✨ Apps
 
-- **[Navi](https://janmalch.github.io/navi-web/)** &middot; In-browser code generator for Compose navigation boilerplate code.
+- **[Simple RSS Reader](https://github.com/JanMalch/Simple-RSS-Reader#readme)** &middot; Simple RSS Reader App for Android
+- **[Cartesian-JSON](https://janmalch.github.io/Cartesian-JSON/)** &middot; Quickly generate cartesian products based on a JSON object
 - **[flextangler](https://janmalch.github.io/flextangler/)** &middot; Create flextangles with your own images
 - **[BackUpper](https://github.com/JanMalch/BackUpper)** &middot; Simple and portable backup tool, that creates backups by simply copying
 - **[ssl-at-home](https://hub.docker.com/r/janmalch/ssl-at-home)** &middot; Create and host your own self-signed certificates, intended for your home network
@@ -27,7 +32,7 @@
 ## 💡 Miscellaneous
 
 - **[ts-experiments](https://github.com/JanMalch/ts-experiments)** &middot; A collection of fun and/or useful things you can do with TypeScript
-- **[collections-commons](https://github.com/JanMalch/collections-commons)** &middot; Extensions, data structures, and utilities built on top of them, for your every-day needs
+- **[collections-commons](https://github.com/JanMalch/collections-commons)** &middot; Extensions, data structures, and utilities built on top of them, for your every-day needs in TypeScript
 - **[angular-form-states-demo](https://github.com/JanMalch/angular-form-states-demo)** &middot; A demo for Angular's form behaviour
 
 ... and some [others](https://github.com/JanMalch?tab=repositories&q=&type=public&language=&sort=).
