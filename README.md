@@ -22,6 +22,7 @@
 ## ✨ Apps
 
 - **[Simple RSS Reader](https://github.com/JanMalch/Simple-RSS-Reader#readme)** &middot; Simple RSS Reader App for Android
+- **[PocPic](https://github.com/JanMalch/pocpic#readme)** &middot; Handy widget to show your favourite images. 
 - **[Cartesian-JSON](https://janmalch.github.io/Cartesian-JSON/)** &middot; Quickly generate cartesian products based on a JSON object
 - **[flextangler](https://janmalch.github.io/flextangler/)** &middot; Create flextangles with your own images
 - **[BackUpper](https://github.com/JanMalch/BackUpper)** &middot; Simple and portable backup tool, that creates backups by simply copying
